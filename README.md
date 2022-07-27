@@ -1,3 +1,3 @@
 # Tribute-page
-In this project I've built a tribute page by using HTML and CSS.
+This is a beginner level front-end development project by using HTML and CSS.
 
